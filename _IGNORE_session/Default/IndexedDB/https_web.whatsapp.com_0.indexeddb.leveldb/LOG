@@ -1,0 +1,24 @@
+2023/02/16-20:01:35.969 22dc Creating DB D:\Percodingan Duniawi\Bot\_IGNORE_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/02/16-20:01:36.060 22dc Reusing MANIFEST D:\Percodingan Duniawi\Bot\_IGNORE_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/16-20:01:36.276 b08 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/16-20:02:53.223 30f0 Level-0 table #5: started
+2023/02/16-20:02:53.371 30f0 Level-0 table #5: 1069915 bytes OK
+2023/02/16-20:02:53.550 30f0 Delete type=0 #3
+2023/02/16-20:02:54.806 22dc Level-0 table #7: started
+2023/02/16-20:02:55.355 22dc Level-0 table #7: 1151008 bytes OK
+2023/02/16-20:02:55.434 22dc Delete type=0 #4
+2023/02/16-20:02:55.573 22dc Compacting 1@1 + 1@2 files
+2023/02/16-20:02:55.693 22dc Generated table #8@1: 18440 keys, 1272700 bytes
+2023/02/16-20:02:55.693 22dc Compacted 1@1 + 1@2 files => 1272700 bytes
+2023/02/16-20:02:55.727 22dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/16-20:02:55.727 22dc Delete type=2 #5
+2023/02/16-20:02:55.727 22dc Delete type=2 #7
+2023/02/16-20:02:59.870 b08 Level-0 table #10: started
+2023/02/16-20:02:59.928 b08 Level-0 table #10: 979199 bytes OK
+2023/02/16-20:02:59.962 b08 Delete type=0 #6
+2023/02/16-20:03:00.066 22dc Compacting 1@1 + 1@2 files
+2023/02/16-20:03:00.178 22dc Generated table #11@1: 25901 keys, 1648783 bytes
+2023/02/16-20:03:00.178 22dc Compacted 1@1 + 1@2 files => 1648783 bytes
+2023/02/16-20:03:00.200 22dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/16-20:03:00.201 22dc Delete type=2 #8
+2023/02/16-20:03:00.201 22dc Delete type=2 #10
